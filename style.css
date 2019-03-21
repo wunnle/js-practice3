@@ -1,5 +1,5 @@
 body {
-  background: #1b2b34;
+  background: #1d4e69;
   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
   padding: 30px;
   width: 100%;
@@ -17,6 +17,7 @@ body {
   padding: 28px 0 0;
   border-radius: 3px;
   margin-bottom: 100px;
+  box-shadow: 0px 7.96774px 17.529px rgba(0, 0, 0, 0.25);
 }
 
 .post-itself {
