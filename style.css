@@ -12,10 +12,15 @@ body {
 }
 
 .post {
-  width: 400px;
+  width: 460px;
   background: white;
   padding: 28px 0 0;
   border-radius: 3px;
+  margin-bottom: 100px;
+}
+
+.post-itself {
+  font-size: 17px;
 }
 
 .user-row {
@@ -40,7 +45,6 @@ body {
 .like-container {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   padding-top: 8px;
-  margin-top: 38px;
   padding: 8px 30px 8px;
   background: rgba(223, 223, 239, 0.4);
 }
@@ -68,4 +72,20 @@ body {
 .like-container button svg {
   width: 25px;
   height: 25px;
+}
+
+.comments {
+  padding: 17px 30px 17px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  margin-top: 30px;
+}
+
+.comment {
+  font-size: 14px;
+  color: #5E4B4B;
+}
+
+.comment-username {
+  font-weight: 500;
+  color: black;
 }
